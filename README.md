@@ -1,4 +1,6 @@
-# omega:py-2.7.10 - A Python base image from nano distro Alpine Linux
+# leopepe/python:2.7.10-r0
+
+* A Python base image from nano distro Alpine Linux *
 
 It'`s very small image containing a minimum python 2.7 interpreter, a PyPi package manager (PIP) and the Ansible provisioning tool
 
